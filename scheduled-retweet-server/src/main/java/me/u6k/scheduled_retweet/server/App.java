@@ -1,5 +1,5 @@
 
-package me.u6k.scheduled_retweet;
+package me.u6k.scheduled_retweet.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
